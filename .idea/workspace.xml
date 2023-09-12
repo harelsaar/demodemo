@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8cad35cc-0549-4c44-86bd-c673188bb61b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/driver_setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/driver_setup.py" afterDir="false" />
